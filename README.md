@@ -1,4 +1,5 @@
 # Engineering_Placements_Analysis
+A method called the placement prediction system forecasts the placement status of final-year B-Tech students.
 
 ### About Dataset
 We are all aware of how comprehensive machine learning is. Numerous algorithms are accessible and used on a regular basis. Statical approaches of data analysis are very desirable in the field of handling enormous amounts of data. They are analyzed, processed, and framed by data scientists in order to interpret the results and develop a useful plan for the organizations. One such method is the identification of a few independent variables against a single dependent variable using multiple logistic regression.
